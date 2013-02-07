@@ -1,7 +1,7 @@
 # Git Extensionsでおこなう、ふつうのコミット（とプッシュ）
 Git Extensionsでコミットをしてみます。一部画面はまだ現在のリリース版のGit Extensions 2.43とは異なることがあります。
 
-## まっすぐなリポジトリの準備
+## リポジトリの準備
 まずは図に示すようなREADME.mdファイル一個しかないリポジトリを用意してみます。
 ![commit01.png](https://raw.github.com/hogelog/gitextensions-tips/master/commit/commit01.png)
 
